@@ -5,7 +5,7 @@ import './App.css'
 
 import AppFilter from './components/app-filter/app-filter'
 import AppInfo from './components/app-info/app-info';
-import SearchPanel from './components/serach-panel/search-panel';
+import SearchPanel from './components/search-panel/search-panel';
 import EmployeesList from './components/employees-list/employees-list';
 import EmployeesAddForm from './components/employees-add-form/employees-add-form';
 
